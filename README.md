@@ -1,3 +1,17 @@
+## Mster Python Functions - Jan 2024
+
+### Step 1: Use Notebook
+[Here is my version of the notebook](Functions_101.ipynb)
+
+Setup your infrastructure to make python function building easy.
+
+#### DevOps in the Loop
+
+Speed up your ability to write code.
+
+
+-- inherited --
+
 [![CI](https://github.com/nogibjj/master-python-functions-dec-2022/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/master-python-functions-dec-2022/actions/workflows/cicd.yml)
 ## Master Python Functions December 2023
 
